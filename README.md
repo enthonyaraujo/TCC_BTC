@@ -1,1 +1,1 @@
-# TCC---BTC
+TCC - Barachel em Ciência e Tecnologia
