@@ -17,7 +17,10 @@ e simulados, validando a eficácia do método. Os resultados ressaltam a aplicab
 Transformada Z na análise de circuitos elétricos e destacam sua utilidade na otimização de
 processos de modelagem matemática.</p>
 
-[Ladder Network](ladder-network.png)
+
+<p align="center">
+<img src="ladder-network.png" alt="ladder network" width="500"/>
+</p>
 
 ### Tecnologias
 - [Multisim](https://www.ni.com/en/support/downloads/software-products/download.multisim.html?srsltid=AfmBOop9PxlwMzHdw5kAutv0n2epTl-sdp9BrvFQSqYeNyDg4yd3rbz7#452133)
