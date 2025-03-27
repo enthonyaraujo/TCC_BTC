@@ -20,7 +20,6 @@ processos de modelagem matemática.</p>
 ### Tecnologias
 - [Multisim](https://www.ni.com/en/support/downloads/software-products/download.multisim.html?srsltid=AfmBOop9PxlwMzHdw5kAutv0n2epTl-sdp9BrvFQSqYeNyDg4yd3rbz7#452133)
 - [Python](https://www.python.org/)
-- [Jupyter Notebook](https://jupyter.org/)
 
 ### Bibliotecas
 - [Numpy](https://numpy.org/)
