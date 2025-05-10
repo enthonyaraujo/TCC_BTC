@@ -2,8 +2,8 @@
 
 ### UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO - UFERSA
 
-### APLICAÇÃO DA TRANSFORMADA Z NA ANÁLISE DE CIRCUITOS ELÉTRICOS
-DISCRETOS
+### APLICAÇÃO DA TRANSFORMADA Z NA ANÁLISE DE CIRCUITOS ELÉTRICOS DISCRETOS
+
 ### RESUMO
 
 <p align="justify">Este trabalho analisa a aplicação da Transformada Z na resolução de circuitos elétricos discretos,
