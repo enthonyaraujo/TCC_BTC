@@ -23,12 +23,13 @@ processos de modelagem matemática.</p>
 </p>
 
 ### Tecnologias
-- [Multisim](https://www.ni.com/en/support/downloads/software-products/download.multisim.html?srsltid=AfmBOop9PxlwMzHdw5kAutv0n2epTl-sdp9BrvFQSqYeNyDg4yd3rbz7#452133)
-- [Python](https://www.python.org/)
+- <a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.html?srsltid=AfmBOop9PxlwMzHdw5kAutv0n2epTl-sdp9BrvFQSqYeNyDg4yd3rbz7#452133" target="_blank">Multisim</a>
+- <a href="https://www.python.org/" target="_blank">Python</a>
+
 
 ### Bibliotecas
-- [Numpy](https://numpy.org/)
-- [Matplotlib](https://matplotlib.org/)
+- <a href="https://numpy.org/" target="_blank">Numpy</a>
+- <a href="https://matplotlib.org/" target="_blank">Matplotlib</a>
 
 
 <p align="center">Desenvolvido por Enthony Araujo</p>
