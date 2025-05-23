@@ -18,10 +18,6 @@ Transformada Z na análise de circuitos elétricos e destacam sua utilidade na o
 processos de modelagem matemática.</p>
 
 
-<p align="center">
-<img src="ladder-network.png" alt="ladder network" width="500"/>
-</p>
-
 ### Tecnologias
 - <a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.html?srsltid=AfmBOop9PxlwMzHdw5kAutv0n2epTl-sdp9BrvFQSqYeNyDg4yd3rbz7#452133" target="_blank">Multisim</a>
 - <a href="https://www.python.org/" target="_blank">Python</a>
